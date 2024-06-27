@@ -4,3 +4,5 @@
 -- Tailwind CSS IntelliSense
 -- ES7 React/Redux/GraphQL/React-Native
 -- Auto Rename Tag
+
+Rodar o projeto: yarn run dev
